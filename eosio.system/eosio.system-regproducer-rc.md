@@ -28,9 +28,9 @@ I hereby agree that double-signing for a timestamp or block number in concert wi
 
 I hereby agree not to interfere with the producer election process. I agree to process all producer election transactions that occur in blocks I create, to sign all objectively valid blocks I create that contain election transactions, and to sign all pre-confirmations and confirmations necessary to facilitate transfer of control to the next set of producers as determined by the system contract.
 
-I hereby acknowledge that 2/3+ other elected producers may vote to disqualify {{producer}} in the event {{producer}} is unable to produce blocks or is unable to be reached, according to criteria agreed to among producers.
+I hereby acknowledge that 2/3+ other elected producers may vote to disqualify {{producer}} in the event {{producer}} is unable to produce blocks or is unable to be reached, according to criteria agreed upon amongst producers.
 
-If {{producer}} qualifies for and chooses to collect compensation due to votes received, {{producer}} will provide a public endpoint allowing at least 100 peers to maintain synchronization with the blockchain and/or submit transactions to be included. {{producer}} shall maintain at least 1 validating node with full state and signature checking and shall report any objectively invalid blocks produced by the active block producers. Reporting shall be via a method to be agreed to among producers, said method and reports to be made public.
+If {{producer}} qualifies for and chooses to collect compensation due to votes received, {{producer}} will provide a public endpoint allowing at least 100 peers to maintain synchronization with the blockchain and/or submit transactions to be included. {{producer}} shall maintain at least 1 validating node with full state and signature checking and shall report any objectively invalid blocks produced by the active block producers. Reporting shall be via a method to be agreed upon amongst producers, said method and reports to be made public.
 
 The community agrees to allow {{producer}} to authenticate peers as necessary to prevent abuse and denial of service attacks; however, {{producer}} agrees not to discriminate against non-abusive peers.
 
@@ -48,7 +48,7 @@ I, {{producer}}, agree to maintain a website hosted at {{url}} which contains up
 
 I, {{producer}}, agree to set {{location}} such that {{producer}} is scheduled with minimal latency between my previous and next peer.
 
-I, {{producer}}, agree to maintain time synchronization within 10 ms of global atomic clock time, using a method agreed to among producers.
+I, {{producer}}, agree to maintain time synchronization within 10 ms of global atomic clock time, using a method agreed upon amongst producers.
 
 I, {{producer}}, agree not to produce blocks before my scheduled time unless I have received all blocks produced by the prior producer.
 
